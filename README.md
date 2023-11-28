@@ -1,25 +1,18 @@
-#Notas:
+TODO APP CONSOLA
+======
+    Con esta app de consola se pueden realizar las sigientes acciones:
+                                        
+1. **Creación de tareas**
+2. **Listar todas las tareas**
+3. **Listar las tareas completadas**
+4. **Listar las tareas pendientes**
+5. **Marcar tarea(s) como completada(s) o pendiente(s)**
+6. **Eliminar una tarea**
 
-###**Pantalla principal** 
-![Alt text](image.png)
+*_ Se utilizó NodeJs, JavaScript y paquetes como Colors, Inquirer y uuid. _*
+
+***
 
 
-###**Creación de tareas**
-![Alt text](image-2.png)
-
-###**Listar todas las tareas**
-![Alt text](image-3.png)
-
-###**Listar las tareas completadas**
-![Alt text](image-4.png)
-
-###**Listar las tareas pendientes**
-![Alt text](image-5.png)
-
-###**Marcar tarea(s) como completada(s) o pendiente(s)**
-![Alt text](image-6.png)
-
-###**Eliminar una tarea**
-![Alt text](image-7.png)
-
+![pantalla princiapl](./img/image.png)
 
